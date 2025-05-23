@@ -1,0 +1,31 @@
+.conteiner {
+    display: grid;
+    grid-template-columns: 70px 70px 70px 70px;
+    grid-template-rows: 70px 70px 70px;
+    grid-template-columns: 70px 70px 70px 70px;
+    grid-template-rows: 70px 70px 70px;
+    align-items: center;
+    justify-content: center;
+
+  }
+  body {
+    font-family: "Sofia", sans-serif;
+  }
+  
+  div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    height: 940px;
+  }
+  img{
+    width: 300px;
+    height: 300px;
+    border: 10px solid MediumVioletRed;
+  }
+  
+  
+  
+  
+  
