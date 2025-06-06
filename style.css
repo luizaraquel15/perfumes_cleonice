@@ -1,0 +1,56 @@
+
+.container{
+  display:grid;
+  grid-template-columns: 70px 70px 70px 70px;
+  grid-template-rows: 70px 70px 70px;
+  grid-template-columns: 70px 70px 70px;
+  grid-template-rows: 70px 70px 70px; 
+  align-items: center;
+  justify-content: center;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    height: 940px;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #45d7b7;
+
+  }  
+  body {
+    font-family: "Sofia", sans-serif;
+  
+  }
+  p {
+    color: rgb(26, 26, 55); /* Define a cor do texto como azul */
+    font-size: 18px;
+  }
+  p1 {
+    color: rgb(174, 78, 126); 
+    font-size: 18px;
+  }
+  p2 {
+    color: rgba(131, 53, 149, 0.691); 
+    font-size: 18px;
+  }
+  p3 {
+    color: rgb(155, 60, 155); 
+    font-size: 18px;
+  }
+  p4 {
+    color: rgb(77, 22, 150); 
+    font-size: 18px;
+  }
+  p7 {
+    color: rgb(74, 140, 184); 
+    font-size: 18px;
+  }
+  p8 {
+    color: rgb(135, 29, 102); 
+    font-size: 18px;
+  }
+    
